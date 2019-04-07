@@ -1,0 +1,7 @@
+README.md
+setup.py
+3xbit/__init__.py
+python_3xbit.egg-info/PKG-INFO
+python_3xbit.egg-info/SOURCES.txt
+python_3xbit.egg-info/dependency_links.txt
+python_3xbit.egg-info/top_level.txt
